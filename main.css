@@ -13,7 +13,8 @@ nav{
 
 
 #headshot {
-    width: 10%;
+    width: 200%;
+    max-width: 200px;
     border-radius: 50%;
 
 }
