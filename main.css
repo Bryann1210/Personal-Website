@@ -1,0 +1,25 @@
+nav{
+    border-bottom: 1px solid black;
+}
+#navbar {
+    list-style: none;
+    text-align: center;
+}
+
+#navbar li{
+    display: inline-block;
+    margin: 5px  25px;
+}
+
+
+#headshot {
+    width: 10%;
+    border-radius: 50%;
+
+}
+
+
+#top_info {
+    background-color: slategrey;
+
+}
