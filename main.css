@@ -20,7 +20,15 @@ nav{
 }
 
 
-#top_info {
-    background-color: slategrey;
+header {
+    background-image: url("images/pburgh.jpg");
+    background-size: cover;
+    height: 875px;
+}
 
+#intro {
+    padding-top: 20%;
+    text-align: center;
+    text-shadow: 2px 4px 4px black;
+    color: white;
 }
