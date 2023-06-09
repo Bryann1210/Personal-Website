@@ -23,7 +23,7 @@ nav{
 header {
     background-image: url("images/pburgh.jpg");
     background-size: cover;
-    height: 875px;
+    height: 100vh;
 }
 
 #intro {
