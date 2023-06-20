@@ -10,7 +10,9 @@ nav{
     display: inline-block;
     margin: 5px  25px;
 }
-
+#navbar li:hover{
+    color: white;
+}
 
 #headshot {
     width: 200%;
@@ -30,5 +32,22 @@ header {
     padding-top: 20%;
     text-align: center;
     text-shadow: 2px 4px 4px black;
+    color: white;
+}
+body {
+    background-color:#282828;
+}
+
+#about{
+    margin-top: 50px;
+}
+
+#about h1{
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: rebeccapurple;
+    text-underline-position: under;
+}
+#about p{
     color: white;
 }
