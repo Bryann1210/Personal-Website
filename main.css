@@ -1,3 +1,7 @@
+/*body{*/
+/*    overflow-x:hidden;*/
+/*}*/
+
 nav{
     border-bottom: 1px solid black;
 }
@@ -12,6 +16,22 @@ nav{
 }
 #navbar li:hover{
     color: white;
+}
+
+#intro li{
+    list-style: none;
+    display: inline-block;
+    width: 50%;
+    max-width:125px;
+}
+
+#intro li a{
+    text-decoration:none;
+    color:white;
+}
+
+#intro li a i{
+    font-size: 3vw;
 }
 
 #headshot {
@@ -47,6 +67,7 @@ body {
     text-decoration: underline;
     text-decoration-color: rebeccapurple;
     text-underline-position: under;
+    margin-bottom: 5%;
 }
 #about p{
     color: white;
